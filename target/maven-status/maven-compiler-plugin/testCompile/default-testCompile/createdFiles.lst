@@ -1,0 +1,11 @@
+StepDefinitions\HardwareStep.class
+StepDefinitions\ContentStep.class
+StepDefinitions\GraphicsStep.class
+StepDefinitions\AppStep.class
+Utilities\ExtentReport.class
+Hook\Hooks.class
+StepDefinitions\MediaStep.class
+Utilities\ScreenShots.class
+Runner\RunnerTest.class
+StepDefinitions\AccessibilityStep.class
+StepDefinitions\AnimationStep.class

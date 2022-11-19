@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: Runner.RunnerTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 207.367 s <<< FAILURE! - in Runner.RunnerTest
+Runner.RunnerTest.feature[Api demos Tasks Accessiblity](1)  Time elapsed: 32.44 s  <<< FAILURE!
+cucumber.runtime.CucumberException: java.lang.AssertionError: expected [Custom Views] but found [Custom View]
+Caused by: java.lang.AssertionError: expected [Custom Views] but found [Custom View]
+
+Runner.RunnerTest.feature[Api demos Tasks Animation](2)  Time elapsed: 28.478 s  <<< FAILURE!
+cucumber.runtime.CucumberException: java.lang.AssertionError: expected [Animation] but found [PLAY]
+Caused by: java.lang.AssertionError: expected [Animation] but found [PLAY]
+
